@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, my name is Víctor Hdez. i'm a CS Student :).
 
-<!--
-**RAKINJA/RAKINJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Currently learning these languages📘 :
+	- C                 [ ++++ ]
+	- Java            [ ++++ ]
+	- Python       [ + ]
+	- Javascript   [ ++ ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---> You can ask me about 💬
+ 
+---> You can message me on my personal Blog :) 📫:
+					novicedevelepers.blogspot.com
