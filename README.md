@@ -23,16 +23,14 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="DEBIAN" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" width="50" height="50"/>	<hr>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" width="50" height="50"/>
+	<hr>
 </div>
 
 <div>
 	<h4>🖋 Hobbie technologies 🖋</h4>
 	
-	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="JULIA" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" width="40" height="40"/>
+	
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="VAGRANT" width="40" height="40"/>
 	<hr>
 </div>
