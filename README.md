@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://giphy.com/embed/hzBc3HCFc0icM"/>
+	<img src="https://media.giphy.com/media/hzBc3HCFc0icM/giphy.gif"/>
 	<h1>Víctor Hdez</h1>
 </div>
 
