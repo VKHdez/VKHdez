@@ -29,9 +29,6 @@
 
 <div>
 	<h4>🖋 Hobbie technologies 🖋</h4>
-	
-	
-	<hr>
 </div>
 
 ---> You can message me on my personal Blog :) 📫:
