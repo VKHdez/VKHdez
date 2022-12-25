@@ -29,6 +29,7 @@
 
 <div>
 	<h4>🖋 Hobbie technologies 🖋</h4>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="40" height="40"/>
 </div>
 
 ---> You can message me on my personal Blog :) 📫:
