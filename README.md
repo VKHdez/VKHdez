@@ -2,6 +2,7 @@
 	<img src="https://media.giphy.com/media/hzBc3HCFc0icM/giphy.gif"/>
 	<h1>Víctor Hdez</h1>
 	<h3>Backend developer. Enthusiast Game developer</h3>
+	<p>Author of novicedeveloper.blogspot.com</p>
 	<hr>
 </div>
 
@@ -30,7 +31,8 @@
 <div>
 	<h4>🖋 Hobbie technologies 🖋</h4>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="JULIA" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="VAGRANT" width="40" height="40"/>
 </div>
-
----> You can message me on my personal Blog :) 📫:
-					novicedevelepers.blogspot.com
