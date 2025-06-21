@@ -16,7 +16,8 @@
 
 <div>
 	<h4>🔨 Other technologies 🔨</h4>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWIND" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" title="ASTRO" width="50" height="50"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="TAILWIND" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" width="50" height="50"/>
 	<hr>
 </div>
