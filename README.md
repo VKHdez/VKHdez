@@ -1,16 +1,14 @@
 <div align="center">
-	<img src="https://media.giphy.com/media/hzBc3HCFc0icM/giphy.gif"/>
-	<h1>Víctor Hdez</h1>
-	<h3>Backend developer. Enthusiast Game developer</h3>
-	<p>Author of novicedeveloper.blogspot.com</p>
-	<hr>
+	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlqcHJncHNiYzY4MHFyZ3d6aW8xdG03MXh0cnRha3VrZTIzMzRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"/>
+	<h1>Víctor Hdez A.</h1>
+	<h3>Software Engineer</h3>
+	<p>Author of <a href="https://www.vkhdezdev.com" target="_blank">VKHdezDev</a></p>
 </div>
-
 
 <div>
 	<h4>🛠 Main technologies 🛠</h4>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="LARAVEL" width="60" height="60"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="60" height="60"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii 2" width="60" height="60"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" width="60" height="60"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" width="60" height="60"/>
 	<hr>
@@ -18,13 +16,8 @@
 
 <div>
 	<h4>🔨 Other technologies 🔨</h4>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWIND" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="DEBIAN" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" width="50" height="50"/>
 	<hr>
 </div>
 
@@ -32,7 +25,5 @@
 	<h4>🖋 Hobbie technologies 🖋</h4>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="JULIA" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="VAGRANT" width="40" height="40"/>
 </div>
