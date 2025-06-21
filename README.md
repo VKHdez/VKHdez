@@ -19,6 +19,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" title="ASTRO" width="50" height="50"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="TAILWIND" width="50" height="50"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" width="50" height="50"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" width="40" height="40"/>
 	<hr>
 </div>
 
@@ -26,5 +27,4 @@
 	<h4>🖋 Hobbie technologies 🖋</h4>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="JULIA" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" width="40" height="40"/>
 </div>
