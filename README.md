@@ -3,12 +3,13 @@
 	<h1>Víctor Hdez A.</h1>
 	<h3>Software Engineer</h3>
 	<p>Author of <a href="https://www.vkhdezdev.com" target="_blank">VKHdezDev</a></p>
+    <p>Good projects require good architectures, that's why I learn about software engineering, leadership, management and coding :). It's not only a task or ticket, it's a solution to a problem, something that can cause troubles in productions if it's not correctly developed</p>
 </div>
 
 <div>
-	<h4>🛠 Main technologies 🛠</h4>
+	<h4>🛠 My STACK 🛠</h4>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii 2" width="60" height="60"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" width="60" height="60"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Symfony" width="60" height="60"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" width="60" height="60"/>
 	<hr>
