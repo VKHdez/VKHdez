@@ -3,29 +3,53 @@
 	<h1>Víctor Hdez A.</h1>
 	<h3>Software Engineer</h3>
 	<p>Author of <a href="https://www.vkhdezdev.com" target="_blank">VKHdezDev</a></p>
-    <p>Good projects require good architectures, that's why I learn about software engineering, leadership, management and coding :). It's not only a task or ticket, it's a solution to a problem, something that can cause troubles in productions if it's not correctly developed</p>
+	<p>Good projects require good architectures, that's why I learn about software engineering, leadership, management and coding :). It's not only a task or ticket, it's a solution to a problem, something that can cause troubles in production if it's not correctly developed</p>
 </div>
 
+---
+
 <div>
-	<h4>🛠 My STACK 🛠</h4>
+	<h4>🛠 Main Stack 🛠</h4>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii 2" width="60" height="60"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Symfony" width="60" height="60"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="60" height="60"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" width="60" height="60"/>
-	<hr>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="60" height="60"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" width="60" height="60"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="60" height="60"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React JS" width="60" height="60"/>
+	&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" title="Astro" width="60" height="60"/>
 </div>
 
-<div>
-	<h4>🔨 Other technologies 🔨</h4>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" title="ASTRO" width="50" height="50"/>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="TAILWIND" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="LINUX" width="50" height="50"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" width="40" height="40"/>
-	<hr>
-</div>
+---
 
 <div>
-	<h4>🖋 Hobbie technologies 🖋</h4>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="JULIA" width="40" height="40"/>
+	<h4>🔨 Other Technologies 🔨</h4>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="50" height="50"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="50" height="50"/>
+</div>
+
+---
+
+<div>
+	<h4>📚 Currently Learning 📚</h4>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="55" height="55"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="55" height="55"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" width="55" height="55"/>
+</div>
+
+---
+
+<div>
+	<h4>🖋 Hobby Technologies 🖋</h4>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pascal/pascal-original.svg" title="Lazarus Pascal" width="45" height="45"/>
+	&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="45" height="45"/>
 </div>
