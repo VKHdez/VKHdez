@@ -2,7 +2,19 @@
 	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlqcHJncHNiYzY4MHFyZ3d6aW8xdG03MXh0cnRha3VrZTIzMzRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"/>
 	<h1>Víctor Hdez A.</h1>
 	<h3>Software Engineer</h3>
-	<p>Author of <a href="https://www.vkhdezdev.com" target="_blank">VKHdezDev</a></p>
+	<p>
+		<a href="https://www.linkedin.com/in/victorhdeza/" target="_blank">
+			<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+		</a>
+		&nbsp;
+		<a href="https://www.vkhdezdev.com" target="_blank">
+			<img src="https://img.shields.io/badge/VKHdezDev-111827?style=for-the-badge&logo=About.me&logoColor=white"/>
+		</a>
+		&nbsp;
+		<a href="mailto:victor.hdezalvarez@gmail.com">
+			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+		</a>
+	</p>
 	<p>Good projects require good architectures, that's why I learn about software engineering, leadership, management and coding :).<br/>It's not only a task or ticket — it's a solution to a problem, something that can cause troubles in production if it's not correctly developed.</p>
 </div>
 
@@ -81,7 +93,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="50" height="50"/>
     </td>
     <td width="180"><strong>Azure</strong></td>
-    <td>Cloud y servicios empresariales Microsoft</td>
+    <td>Migrando arquitectura y despliegue en VPS hacia sistemas modernos en la nube de Microsoft</td>
   </tr>
   <tr>
     <td align="center">
