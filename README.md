@@ -16,6 +16,11 @@
 		</a>
 	</p>
 	<p>Good projects require good architectures, that's why I learn about software engineering, leadership, management and coding :).<br/>It's not only a task or ticket — it's a solution to a problem, something that can cause troubles in production if it's not correctly developed.</p>
+	<br/>
+	<img src="https://github-readme-stats.vercel.app/api?username=VKHdez&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="165"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKHdez&layout=compact&theme=dark&hide_border=true" height="165"/>
+	<br/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=VKHdez&theme=dark&hide_border=true"/>
 </div>
 
 ---
