@@ -63,6 +63,16 @@
     <td>Gestor de bases de datos empresariales</td>
   </tr>
   <tr>
+    <th align="left" colspan="3">🚀 &nbsp;Infraestructura</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
+    </td>
+    <td><strong>Linux</strong></td>
+    <td>Despliegue manual de aplicaciones Laravel, Yii2 y React JS en entornos VPS, CI usando git hooks y configuración de seguridad</td>
+  </tr>
+  <tr>
     <th align="left" colspan="3">🖥️ &nbsp;Frontend</th>
   </tr>
   <tr>
@@ -82,8 +92,10 @@
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="50" height="50"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/>
     </td>
-    <td><strong>Tailwind CSS</strong></td>
+    <td><strong>Tailwind CSS &amp; Bootstrap</strong></td>
     <td>Estilos modernos y responsive</td>
   </tr>
 </table>
@@ -102,6 +114,13 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="50" height="50"/>
+    </td>
+    <td><strong>Kotlin</strong></td>
+    <td>Desarrollo de Apps para uso personal y empresarial</td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50" height="50"/>
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="50" height="50"/>
@@ -117,11 +136,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="55" height="55"/><br/>
-      <strong>Linux</strong>
-    </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" width="55" height="55"/><br/>
       <strong>Docker</strong>
     </td>
