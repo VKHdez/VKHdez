@@ -10,17 +10,21 @@
 
 <h3>🛠 Main Stack</h3>
 
-<table>
+<table width="100%">
   <tr>
     <th align="left" colspan="3">⚙️ &nbsp;Backend</th>
   </tr>
   <tr>
-    <td align="center" width="70"><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original.svg" title="Yii2" width="48" height="48"/></td>
-    <td width="140"><strong>Yii2</strong></td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original.svg" title="Yii2" width="50" height="50"/>
+    </td>
+    <td width="180"><strong>Yii2</strong></td>
     <td>APIs y sistemas empresariales</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" width="48" height="48"/></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="50" height="50"/>
+    </td>
     <td><strong>Laravel</strong></td>
     <td>APIs y sistemas empresariales</td>
   </tr>
@@ -28,12 +32,16 @@
     <th align="left" colspan="3">🗄️ &nbsp;Bases de datos</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" width="48" height="48"/></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="MariaDB" width="50" height="50"/>
+    </td>
     <td><strong>MariaDB</strong></td>
     <td>Gestor de bases de datos empresariales</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="48" height="48"/></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="50" height="50"/>
+    </td>
     <td><strong>SQL Server</strong></td>
     <td>Gestor de bases de datos empresariales</td>
   </tr>
@@ -41,17 +49,23 @@
     <th align="left" colspan="3">🖥️ &nbsp;Frontend</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React JS" width="48" height="48"/></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React JS" width="50" height="50"/>
+    </td>
     <td><strong>React JS</strong></td>
     <td>Dashboards administrativos completos</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" title="Astro" width="48" height="48"/></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" title="Astro" width="50" height="50"/>
+    </td>
     <td><strong>Astro</strong></td>
     <td>Landing pages y sitios estáticos</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="48" height="48"/></td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="50" height="50"/>
+    </td>
     <td><strong>Tailwind CSS</strong></td>
     <td>Estilos modernos y responsive</td>
   </tr>
@@ -61,21 +75,22 @@
 
 <h3>📚 Currently Learning</h3>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="70"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="48" height="48"/></td>
-    <td width="140"><strong>Azure</strong></td>
+    <td align="center" width="70">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="50" height="50"/>
+    </td>
+    <td width="180"><strong>Azure</strong></td>
     <td>Cloud y servicios empresariales Microsoft</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="48" height="48"/></td>
-    <td><strong>Java</strong></td>
-    <td>Desarrollo backend con Spring Boot</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" width="48" height="48"/></td>
-    <td><strong>Spring Boot</strong></td>
-    <td>APIs y microservicios en Java</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50" height="50"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="50" height="50"/>
+    </td>
+    <td><strong>Java &amp; Spring Boot</strong></td>
+    <td>Migrando conocimientos de arquitectura y APIs desde PHP hacia Java, aplicando Clean Architecture y DDD</td>
   </tr>
 </table>
 
@@ -83,14 +98,32 @@
 
 <h3>🔨 Other Technologies</h3>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="50" height="50"/>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" width="55" height="55"/><br/>
+      <strong>Linux</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" width="55" height="55"/><br/>
+      <strong>Docker</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h3>🖋 Hobby Technologies</h3>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pascal/pascal-original.svg" title="Lazarus Pascal" width="48" height="48"/>
-&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="48" height="48"/>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Lazarus%20Pascal-1A3263?style=for-the-badge&logoColor=white" height="36"/><br/><br/>
+      <strong>Lazarus Pascal</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" title="C" width="60" height="60"/><br/>
+      <strong>C</strong>
+    </td>
+  </tr>
+</table>
