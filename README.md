@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlqcHJncHNiYzY4MHFyZ3d6aW8xdG03MXh0cnRha3VrZTIzMzRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"/>
 	<h1>Víctor Hdez A.</h1>
-	<h3>Software Engineer</h3>
+	<h3>Solutions Architect Jr &nbsp;|&nbsp; Tech Lead &nbsp;|&nbsp; Graphic Designer &nbsp;|&nbsp; Entrepreneur</h3>
 	<p>
 		<a href="https://www.linkedin.com/in/victorhdeza/" target="_blank">
 			<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
