@@ -34,7 +34,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="50" height="50"/>
     </td>
     <td width="180"><strong>Yii2 & Laravel</strong></td>
-    <td>RESTFul API Development</td>
+    <td>RESTFul API Development & classic MVC monolith applications</td>
   </tr>
   <tr>
     <th align="left" colspan="3">🗄️ &nbsp;Database</th>
