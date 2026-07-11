@@ -45,7 +45,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" width="50" height="50"/>
     </td>
     <td><strong>MariaDB & SQL Server</strong></td>
-    <td>Database management and design (transactions, relations, related-keys, store procedures, caching and replication</td>
+    <td>Database management and design (transactions, relations, related-keys, store procedures, caching and replication)</td>
   </tr>
   <tr>
     <th align="left" colspan="3">🚀 &nbsp;Infraestructure</th>
@@ -65,14 +65,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React JS" width="50" height="50"/>
     </td>
     <td><strong>React JS</strong></td>
-    <td>Dashboards administrativos completos</td>
+    <td>Dashboard admin panels</td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" title="Astro" width="50" height="50"/>
     </td>
     <td><strong>Astro</strong></td>
-    <td>Landing pages y sitios estáticos</td>
+    <td>Landing pages & static sites</td>
   </tr>
   <tr>
     <td align="center">
@@ -81,7 +81,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/>
     </td>
     <td><strong>Tailwind CSS &amp; Bootstrap</strong></td>
-    <td>Estilos modernos y responsive</td>
+    <td>CSS, Styles and responsive design</td>
   </tr>
 </table>
 
@@ -90,6 +90,31 @@
 <h3>📚 Currently Learning</h3>
 
 <table width="100%">
+    <tr>
+        <th align="left" colspan="3">⚙️ &nbsp;Backend</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50" height="50"/>
+            &nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="50" height="50"/>
+        </td>
+        <td><strong>Java &amp; Spring Boot</strong></td>
+        <td>Migrando conocimientos de arquitectura y APIs desde PHP hacia Java, aplicando Clean Architecture y DDD</td>
+    </tr>
+    <tr>
+        <th align="left" colspan="3">🖥️ &nbsp;Mobile</th>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="50" height="50"/>
+        </td>
+        <td><strong>Kotlin</strong></td>
+        <td>Desarrollo de Apps para uso personal y empresarial</td>
+    </tr>
+    <tr>
+        <th align="left" colspan="3">🚀 &nbsp;Infraestructure</th>
+    </tr>
   <tr>
     <td align="center" width="70">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="50" height="50"/>
@@ -97,23 +122,7 @@
     <td width="180"><strong>Azure</strong></td>
     <td>Migrando arquitectura y despliegue en VPS hacia sistemas modernos en la nube de Microsoft</td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="50" height="50"/>
-    </td>
-    <td><strong>Kotlin</strong></td>
-    <td>Desarrollo de Apps para uso personal y empresarial</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50" height="50"/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="50" height="50"/>
-    </td>
-    <td><strong>Java &amp; Spring Boot</strong></td>
-    <td>Migrando conocimientos de arquitectura y APIs desde PHP hacia Java, aplicando Clean Architecture y DDD</td>
-  </tr>
-</table>
+   </table>
 
 ---
 
