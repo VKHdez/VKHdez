@@ -100,17 +100,17 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring Boot" width="50" height="50"/>
         </td>
         <td><strong>Java &amp; Spring Boot</strong></td>
-        <td>Migrando conocimientos de arquitectura y APIs desde PHP hacia Java, aplicando Clean Architecture y DDD</td>
+        <td>Migration my Architecture and API concepts to Java Programming Language and it's ecosystem arquitectura (includes Clean Architecture, DDD & Principles)</td>
     </tr>
     <tr>
-        <th align="left" colspan="3">🖥️ &nbsp;Mobile</th>
+        <th align="left" colspan="3">📲 &nbsp;Mobile</th>
     </tr>
     <tr>
         <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="50" height="50"/>
         </td>
         <td><strong>Kotlin</strong></td>
-        <td>Desarrollo de Apps para uso personal y empresarial</td>
+        <td>Mobile apps development for personal use</td>
     </tr>
     <tr>
         <th align="left" colspan="3">🚀 &nbsp;Infraestructure</th>
@@ -120,7 +120,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" width="50" height="50"/>
     </td>
     <td width="180"><strong>Azure</strong></td>
-    <td>Migrando arquitectura y despliegue en VPS hacia sistemas modernos en la nube de Microsoft</td>
+    <td>Migrating my manual VPS architecture pipeline towards modern concepts using Microsoft's Cloud Platform</td>
   </tr>
    </table>
 
