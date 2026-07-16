@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlqcHJncHNiYzY4MHFyZ3d6aW8xdG03MXh0cnRha3VrZTIzMzRzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"/>
+	<img src="https://u.cubeupload.com/VictorHdez/personalbannermin.jpg"/>
 	<h1>Víctor Hdez A.</h1>
 	<h3>Solutions Architect Jr &nbsp;|&nbsp; Tech Lead &nbsp;|&nbsp; Graphic Designer &nbsp;|&nbsp; Entrepreneur</h3>
 	<p>
@@ -17,7 +17,6 @@
 	</p>
 	<p>Good projects require good architectures, that's why I learn about software engineering, leadership, management and coding :).<br/>It's not only a task or ticket — it's a solution to a problem, something that can cause troubles in production if it's not correctly developed.</p>
 	<br/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=VKHdez&theme=dark&hide_border=true"/>
 </div>
 
 ---
